@@ -6,7 +6,7 @@ Specs
 
 |   |  |
 | --- | ---|
-| CPU | Intel® Core™ i5-6200U (2.3 GHz, up to 2.8 GHz, 3 MB cache, 2 cores) |
+| CPU | Intel® Core™ i5-6200U (Skylake, 2.3 GHz, up to 2.8 GHz, 3 MB cache, 2 cores) |
 | GPU | Intel® HD Graphics 520 |
 | RAM | 8 GB DDR3L on-board |
 | Display | 13.3" QHD IPS LED-backlit touch screen (2560x1440) |
