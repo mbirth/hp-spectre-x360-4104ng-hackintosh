@@ -20,6 +20,8 @@ Specs
 
 ### CPU Architectures
 
+(Since many manuals are talking about these.)
+
 * Clarkdale
 * Sandy Bridge
 * Ivy Bridge
@@ -36,10 +38,10 @@ What works
 * Touchpad
 * Touchscreen
 * GPU acceleration
-* HDMI output (ext. display not recognised if plugged during boot, didn't test sound)
+* HDMI output (didn't test sound)
 * Sound (incl. microphone)
 * Webcam
-* WiFi (using experimental [itlwm](https://github.com/OpenIntelWireless/itlwm) and [HeliPort](https://github.com/OpenIntelWireless/HeliPort))
+* WiFi (using experimental [AirportItlwm](https://github.com/OpenIntelWireless/itlwm))
 * Bluetooth (can't toggle on/off from macOS, though)
 * Sleep
 
@@ -47,6 +49,8 @@ What doesn't work
 -----------------
 
 * Battery readout (didn't hotpatch ACPI yet)
+* Apple TV+ (DRM?)
+* Unlock via Apple Watch (see AirportItlwm)
 * Audio in OpenCore (e.g. no boot chime)
 
 
